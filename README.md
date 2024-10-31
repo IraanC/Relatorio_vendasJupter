@@ -32,13 +32,13 @@ Realizamos uma análise exploratória para entender a distribuição das vendas 
 
 ## 4. Ferramentas e Tecnologias
 - **Linguagens de Programação**: Python
-- **Bibliotecas e Frameworks**: Pandas, Matplotlib, 
+- **Bibliotecas e Frameworks**: Pandas, Matplotlib, altair
 - **Ambiente de Desenvolvimento**: Jupyter Notebook, Google Colab e [Brifer](https://app.briefer.cloud/workspaces/e37226cf-b753-4535-bd8d-c5084ef19737/documents/fc7ab558-1c38-4f74-bc14-c5a05519599a/notebook/edit)
 
 ## 5. Resultados
 ### Principais Descobertas
 - Identificamos As vendas de produtos eletrônicos representam 61% do total, moveis  (21%) e acessórios (18%).
-- O nosso lucro médio po venda e de 541,42 por venda.
+- O nosso lucro médio por venda e de 541,42 por venda.
 - Indetificamos o nosso lucro  total no semestre.
 
 ### Visualizações
