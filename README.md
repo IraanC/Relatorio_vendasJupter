@@ -65,9 +65,7 @@ Os dados mostram que as vendas estão fortemente concentradas na categoria de el
 
 
 
-## 7. Referências
-- Smith, J. (2022). *Análise de Dados em E-commerce*. Editora XYZ.
-- Artigo da Harvard Business Review sobre estratégias de e-commerce.
+#
 
 ## 8. Anexos
 ### Imagem
